@@ -1,0 +1,5 @@
+datos\Conexion.class
+test\SailorMoon.class
+datos\SailorMoonDao.class
+datos\SailorMoonDaoJDBC.class
+domain\SailorMoonDTO.class

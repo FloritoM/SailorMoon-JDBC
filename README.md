@@ -1,5 +1,9 @@
 - Proyecto simple con uso del API JDBC
-- Sentencias básicas de SQL
+- CRUD
+- Se ejecuta desde el método main
+- Usé MySQL
+
+<i>archivo .jar</i>
 
 
 
